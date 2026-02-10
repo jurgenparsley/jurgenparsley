@@ -7,7 +7,7 @@
 
   [OK] Database: Connected to 'Myoui_Memories'
   [OK] Security: Encryption 100% Heart-Protected
-
+```
 ---
 ```code
 try {
@@ -17,3 +17,4 @@ try {
     console.log("Cause: Target is unique and irreplaceable.");
     // System remains loyal to the original source.
 }
+```
