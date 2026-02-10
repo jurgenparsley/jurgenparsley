@@ -1,15 +1,33 @@
-# Hi there, I'm Jurgen! 👋
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=70)
+# ☁️ Jurgen Parsley
 
-### 💫 About Me
-- 🔭 I’m currently working on **DearMyoui Project** (Specially for her ❤️)
-- ⚡ Fun fact: I code better when she's around.
+  *"Transforming caffeine into code and love into projects."*
 
-### 🎵 Listening to...
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?color=pink)](https://open.spotify.com/user/YOUR_USER_ID)
+  ---
 
-### 📊 My GitHub Stats
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Building+DearMyoui+Project...;Part-time+dreamer)](https://git.io/typing-svg)
+
+</div>
+
+### 🛠 Tech Stack & Daily Tools
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jurgenparsley&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git,github,nodejs" />
 </p>
+
+---
+
+### 💌 Special Status
+> [!IMPORTANT]
+> **Current Focus:** Maintaining the most important repository: `eternal-love-v1.0.0` 🔒
+
+| **Project** | **Status** | **Description** |
+| :--- | :--- | :--- |
+| **DearMyoui** | 🚀 Active | Secret project for the one and only. |
+| **Future.js** | 🏗️ Planning | Building a bright future together. |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenparsley&layout=compact&theme=vision-friendly-dark" />
+</div>
