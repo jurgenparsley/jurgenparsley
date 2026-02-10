@@ -8,6 +8,8 @@
   [OK] Database: Connected to 'Myoui_Memories'
   [OK] Security: Encryption 100% Heart-Protected
 
+---
+```code
 try {
     user.findReplacement("Myoui");
 } catch (error) {
